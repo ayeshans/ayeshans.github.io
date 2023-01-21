@@ -1,0 +1,40 @@
+nav {
+    background: #523965 !important;
+    border: none !important;
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    font-weight: 700;
+}
+
+.exp-point {
+    display: flex;
+    align-items: center;
+    margin: 16px 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather';
+    font-weight: 700;
+    color: #523965;
+}
+
+body {
+    font-family: 'Open Sans';
+}
+
+.edu-block {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    color: #523965;
+}
+
+/* #694981 */
